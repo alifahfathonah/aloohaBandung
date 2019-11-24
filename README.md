@@ -1,5 +1,5 @@
-# alipedia
-Online Shop - Marketplace
+# aloohaBandung
+Online Shop, Article, Blog, Advertise
 
 Program Language: Bootstrap, PHP, Code Igniter, Mysql
 
