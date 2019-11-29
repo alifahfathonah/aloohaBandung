@@ -1,0 +1,1 @@
+simpan setiap perubah di GITLAB
